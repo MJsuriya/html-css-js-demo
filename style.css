@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+}
+
+#loginModel {
+  margin: 0 auto;
+  height: auto;
+  width: 30%;
+  padding: 1rem;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+}
+
+#resultModel {
+  display: none;
+  width: 50%;
+  margin: 0 auto;
+  border: 2px solid green;
+  padding: 2rem;
+}
+
+#loginButton {
+  margin-top: 1.5rem;
+  cursor: pointer;
+}
